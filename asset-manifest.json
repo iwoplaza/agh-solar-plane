@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agh-solar-plane/static/css/main.1cbef793.chunk.css",
-    "main.js": "/agh-solar-plane/static/js/main.98e0e4fb.chunk.js",
-    "main.js.map": "/agh-solar-plane/static/js/main.98e0e4fb.chunk.js.map",
+    "main.js": "/agh-solar-plane/static/js/main.3c1f4d99.chunk.js",
+    "main.js.map": "/agh-solar-plane/static/js/main.3c1f4d99.chunk.js.map",
     "runtime-main.js": "/agh-solar-plane/static/js/runtime-main.d3f95eae.js",
     "runtime-main.js.map": "/agh-solar-plane/static/js/runtime-main.d3f95eae.js.map",
     "static/css/2.7c3fc33d.chunk.css": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css",
     "static/js/2.0102fa2d.chunk.js": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js",
     "static/js/2.0102fa2d.chunk.js.map": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.map",
     "index.html": "/agh-solar-plane/index.html",
-    "precache-manifest.3ee2684506b491ce69ea6242908033fa.js": "/agh-solar-plane/precache-manifest.3ee2684506b491ce69ea6242908033fa.js",
+    "precache-manifest.6f8f9ed52d4af97eb69b14a5108476da.js": "/agh-solar-plane/precache-manifest.6f8f9ed52d4af97eb69b14a5108476da.js",
     "service-worker.js": "/agh-solar-plane/service-worker.js",
     "static/css/2.7c3fc33d.chunk.css.map": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css.map",
     "static/css/main.1cbef793.chunk.css.map": "/agh-solar-plane/static/css/main.1cbef793.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.7c3fc33d.chunk.css",
     "static/js/2.0102fa2d.chunk.js",
     "static/css/main.1cbef793.chunk.css",
-    "static/js/main.98e0e4fb.chunk.js"
+    "static/js/main.3c1f4d99.chunk.js"
   ]
 }
