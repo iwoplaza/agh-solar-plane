@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/agh-solar-plane/static/css/main.f5ab8c7c.chunk.css",
+    "main.js": "/agh-solar-plane/static/js/main.8fd3a0a1.chunk.js",
+    "main.js.map": "/agh-solar-plane/static/js/main.8fd3a0a1.chunk.js.map",
+    "runtime-main.js": "/agh-solar-plane/static/js/runtime-main.d3f95eae.js",
+    "runtime-main.js.map": "/agh-solar-plane/static/js/runtime-main.d3f95eae.js.map",
+    "static/css/2.7c3fc33d.chunk.css": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css",
+    "static/js/2.0102fa2d.chunk.js": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js",
+    "static/js/2.0102fa2d.chunk.js.map": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.map",
+    "index.html": "/agh-solar-plane/index.html",
+    "precache-manifest.68c52910260ac100feb4381719efcac8.js": "/agh-solar-plane/precache-manifest.68c52910260ac100feb4381719efcac8.js",
+    "service-worker.js": "/agh-solar-plane/service-worker.js",
+    "static/css/2.7c3fc33d.chunk.css.map": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css.map",
+    "static/css/main.f5ab8c7c.chunk.css.map": "/agh-solar-plane/static/css/main.f5ab8c7c.chunk.css.map",
+    "static/js/2.0102fa2d.chunk.js.LICENSE.txt": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.LICENSE.txt",
+    "static/media/cyjan-body.obj": "/agh-solar-plane/static/media/cyjan-body.fba2df40.obj",
+    "static/media/cyjan-solar-panels.obj": "/agh-solar-plane/static/media/cyjan-solar-panels.b29cb5de.obj",
+    "static/media/cyjan-wings.obj": "/agh-solar-plane/static/media/cyjan-wings.c2f5cb67.obj",
+    "static/media/gradient-sheet.png": "/agh-solar-plane/static/media/gradient-sheet.add4fd59.png",
+    "static/media/jasiek2.png": "/agh-solar-plane/static/media/jasiek2.cca76532.png",
+    "static/media/kuba.png": "/agh-solar-plane/static/media/kuba.454dd1a6.png",
+    "static/media/logo.png": "/agh-solar-plane/static/media/logo.ce744f2d.png",
+    "static/media/marketing.png": "/agh-solar-plane/static/media/marketing.7283619b.png",
+    "static/media/olga.png": "/agh-solar-plane/static/media/olga.2f685b05.png",
+    "static/media/pathSolar.obj": "/agh-solar-plane/static/media/pathSolar.51146976.obj",
+    "static/media/solar-baner.mp4": "/agh-solar-plane/static/media/solar-baner.1d692d72.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f95eae.js",
+    "static/css/2.7c3fc33d.chunk.css",
+    "static/js/2.0102fa2d.chunk.js",
+    "static/css/main.f5ab8c7c.chunk.css",
+    "static/js/main.8fd3a0a1.chunk.js"
+  ]
+}
