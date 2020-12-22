@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/agh-solar-plane/static/css/main.1cbef793.chunk.css",
+    "main.css": "/agh-solar-plane/static/css/main.2f938ff7.chunk.css",
     "main.js": "/agh-solar-plane/static/js/main.3c1f4d99.chunk.js",
     "main.js.map": "/agh-solar-plane/static/js/main.3c1f4d99.chunk.js.map",
     "runtime-main.js": "/agh-solar-plane/static/js/runtime-main.d3f95eae.js",
@@ -9,10 +9,10 @@
     "static/js/2.0102fa2d.chunk.js": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js",
     "static/js/2.0102fa2d.chunk.js.map": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.map",
     "index.html": "/agh-solar-plane/index.html",
-    "precache-manifest.6f8f9ed52d4af97eb69b14a5108476da.js": "/agh-solar-plane/precache-manifest.6f8f9ed52d4af97eb69b14a5108476da.js",
+    "precache-manifest.5c0ad2f48fbc579503743d781373a3fe.js": "/agh-solar-plane/precache-manifest.5c0ad2f48fbc579503743d781373a3fe.js",
     "service-worker.js": "/agh-solar-plane/service-worker.js",
     "static/css/2.7c3fc33d.chunk.css.map": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css.map",
-    "static/css/main.1cbef793.chunk.css.map": "/agh-solar-plane/static/css/main.1cbef793.chunk.css.map",
+    "static/css/main.2f938ff7.chunk.css.map": "/agh-solar-plane/static/css/main.2f938ff7.chunk.css.map",
     "static/js/2.0102fa2d.chunk.js.LICENSE.txt": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.LICENSE.txt",
     "static/media/cyjan-body.obj": "/agh-solar-plane/static/media/cyjan-body.fba2df40.obj",
     "static/media/cyjan-solar-panels.obj": "/agh-solar-plane/static/media/cyjan-solar-panels.b29cb5de.obj",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.d3f95eae.js",
     "static/css/2.7c3fc33d.chunk.css",
     "static/js/2.0102fa2d.chunk.js",
-    "static/css/main.1cbef793.chunk.css",
+    "static/css/main.2f938ff7.chunk.css",
     "static/js/main.3c1f4d99.chunk.js"
   ]
 }

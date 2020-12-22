@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agh-solar-plane/precache-manifest.6f8f9ed52d4af97eb69b14a5108476da.js"
+  "/agh-solar-plane/precache-manifest.5c0ad2f48fbc579503743d781373a3fe.js"
 );
 
 self.addEventListener('message', (event) => {

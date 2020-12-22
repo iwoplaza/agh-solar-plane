@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13b9e514eea6375535c60df2676fa385",
+    "revision": "8fd031e06b8a9aef74181c5aff99c99f",
     "url": "/agh-solar-plane/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css"
   },
   {
-    "revision": "47bbf4cfb8fa3fa7be48",
-    "url": "/agh-solar-plane/static/css/main.1cbef793.chunk.css"
+    "revision": "90295c52db7370a8cc09",
+    "url": "/agh-solar-plane/static/css/main.2f938ff7.chunk.css"
   },
   {
     "revision": "08b98f087f50466e2bdc",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47bbf4cfb8fa3fa7be48",
+    "revision": "90295c52db7370a8cc09",
     "url": "/agh-solar-plane/static/js/main.3c1f4d99.chunk.js"
   },
   {
