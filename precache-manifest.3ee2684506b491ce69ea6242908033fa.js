@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4d3f070be8d9b4b4c8563e2576192d1",
+    "revision": "c786123f67610aa3682d20ede9ddc212",
     "url": "/agh-solar-plane/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agh-solar-plane/static/css/2.7c3fc33d.chunk.css"
   },
   {
-    "revision": "a36a5ac5997a4add1ca8",
-    "url": "/agh-solar-plane/static/css/main.f5ab8c7c.chunk.css"
+    "revision": "08c35d67591f1fc0f573",
+    "url": "/agh-solar-plane/static/css/main.1cbef793.chunk.css"
   },
   {
     "revision": "08b98f087f50466e2bdc",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agh-solar-plane/static/js/2.0102fa2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a36a5ac5997a4add1ca8",
-    "url": "/agh-solar-plane/static/js/main.8fd3a0a1.chunk.js"
+    "revision": "08c35d67591f1fc0f573",
+    "url": "/agh-solar-plane/static/js/main.98e0e4fb.chunk.js"
   },
   {
     "revision": "7016d7a4cd130080969e",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "add4fd5909bc2ad66747981e87660412",
     "url": "/agh-solar-plane/static/media/gradient-sheet.add4fd59.png"
+  },
+  {
+    "revision": "fc205488adc3379822339dcf7e2a15e3",
+    "url": "/agh-solar-plane/static/media/img-noise-512x512.fc205488.png"
   },
   {
     "revision": "cca765326e2d16f7abc6f347978a31cd",
